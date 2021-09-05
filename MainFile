@@ -1,16 +1,16 @@
 {    
-    "title": "War for Rayuba: Shield Soundyear II",
-    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
-    "author": "Shield Generator 7",
-    "artist": "Shield Generator 7",
-    "cover": "https://i.imgur.com/MxxaE9O.png",
+    "title": "Romcom With the Preamble of Marriage",
+    "description": "'A person who can't get married makes a good matchmaker for others', namely Hakujo Entaro is aiding women who are spouse hunting today yet again. However, he discovers that all the members present are a 'disappointment' when it comes to the said task...? A never-before-seen youthful romcom that takes place in a marriage agency filled with women who have trouble getting married begins!!",
+    "author": "Ootake Toshitomo",
+    "artist": "Kurinohara Sousuke",
+    "cover": "https://imgur.com/a/pODIFSD.jpg",
     "chapters": {
-        "0": {
+        "1": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+                "Raiho80": "/proxy/api/imgur/chapter/mg3aKNY"
             },
-            "last_updated": 1624606143,
-            "title": "Intro",
+            "last_updated": 1630780569,
+            "title": "Chapter 1",
             "volume": "1"
         }
     }
