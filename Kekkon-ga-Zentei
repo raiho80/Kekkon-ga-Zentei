@@ -22,5 +22,13 @@
             "title": "Chapter 2",
             "volume": "1"
             }
+        "3": {
+            "groups": {
+                "Raiho80": "/proxy/api/imgur/chapter/yPKuAzg"
+            },
+            "last_updated": 1633019560,
+            "title": "Chapter 3",
+            "volume": "1"
+            }    
     }
 }
